@@ -14,10 +14,10 @@ A modern, full-stack dynamic portfolio website designed to showcase personal pro
 Below are the initial prototype sketches that guided the development of the Full-stack Dynamic Portfolio:
 
 ### Prototype 1
-![Prototype 1](/1.jpg)
+![Prototype 1](/2.jpg)
 
 ### Prototype 2
-![Prototype 2](/2.jpg)
+![Prototype 2](/1.jpg)
 
 ## 🚀 Tech Stack
 - **Frontend**: HTML, CSS, JavaScript, React (or your preferred frontend tech)
