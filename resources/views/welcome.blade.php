@@ -15,9 +15,9 @@
 
 }
 
-img {
+/* img {
   margin-left: 300px;
-}
+} */
      </style>
     
 </head>
@@ -34,17 +34,23 @@ img {
       <li><a href="#">Contacts</a></li>
     </ul>
     <div class="flex gap-4 text-white text-xl">
-      <a href="#"><i class="fab fa-x-twitter"></i></a>
-      <a href="#"><i class="fab fa-linkedin"></i></a>
-      <a href="#"><i class="fab fa-github"></i></a>
-    </div>
+  <a href="https://twitter.com/nuyaaida45918" target="_blank" rel="noopener noreferrer">
+    <i class="fab fa-x-twitter"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/lamyeasalma" target="_blank" rel="noopener noreferrer">
+    <i class="fab fa-linkedin"></i>
+  </a>
+  <a href="https://github.com/lamyea-salma016" target="_blank" rel="noopener noreferrer">
+    <i class="fab fa-github"></i>
+  </a>
+</div>
   </nav>
 
   <!-- Hero Section -->
   <section class="flex flex-col md:flex-row items-center justify-center px-8 py-10 gap-10">
     <!-- Image -->
     <div class="bg-gray-900 p-2 rounded-lg clip-polygon">
-      <img src="assets\images\Salma2.jpg " alt="Profile" class="w-64 h-64 object-cover rounded-lg">
+      <img src="assets\images\Salma2.jpg " alt="Profile" class="w-64 h-96 object-cover rounded-lg">
     </div>
 
     <!-- Text -->
@@ -143,7 +149,7 @@ img {
 
 
 
-Poetry really speaks to me; I find it beautiful and inspiring.
+
 
 
 
@@ -424,7 +430,7 @@ Poetry really speaks to me; I find it beautiful and inspiring.
           <h3 class="text-xl font-bold text-white mb-4">Services</h3>
           <ul class="space-y-2 text-gray-300">
             <li><span class="text-green-400">▸</span> UI/UX Design</li>
-            <li><span class="text-green-400">▸</span> Web Development</li>
+            
             <li><span class="text-green-400">▸</span> Mobile App Design</li>
             <li><span class="text-green-400">▸</span> User Research</li>
             <li><span class="text-green-400">▸</span> Prototyping</li>
